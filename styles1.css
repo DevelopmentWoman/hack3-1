@@ -1,0 +1,51 @@
+*:root{
+    --color-block-blue: rgb(145, 164, 196);
+    --color-block-red:   rgb(176, 26, 26);
+}
+
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+
+    height: 100vh;
+}
+
+header{
+    height: 10vh;
+    background-color: var(--color-block-blue);
+}
+
+main{
+    height: 80vh;
+}
+
+main section{
+    height: 19vh;
+    background-color: var(--color-block-red);
+}
+
+main aside{
+    float: right;
+    height: 60vh;
+    width: 70%;
+}
+
+main aside div{
+    margin-top: 1vh;
+    height: 14vh;
+    background-color: var(--color-block-red);
+
+}
+
+footer{
+    margin: 1vh 2%;
+    width: 96%;
+    height: 9vh;
+    background-color: var(--color-block-red);
+
+}
