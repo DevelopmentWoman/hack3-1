@@ -36,14 +36,14 @@ main aside{
 }
 
 main aside div{
-    margin-top: 1vh;
-    height: 14vh;
+    margin-top: 2vh;
+    height: 13vh;
     background-color: var(--color-block-red);
 
 }
 
 footer{
-    margin: 1vh 2% 1vh 2%;
+    margin: 1vh 2%;
     width: 96%;
     height: 8vh;
     background-color: var(--color-block-red);
