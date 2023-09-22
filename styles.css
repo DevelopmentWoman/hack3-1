@@ -43,9 +43,9 @@ main aside div{
 }
 
 footer{
-    margin: 1vh 2%;
+    margin: 1vh 2% 1vh 2%;
     width: 96%;
-    height: 9vh;
+    height: 8vh;
     background-color: var(--color-block-red);
 
 }
